@@ -1,5 +1,5 @@
 # astra-vsearch-image
-Jupyter notebook for the image search with the OpenAI [CLIP Model](https://github.com/openai/CLIP) and [Astra Vector Search](https://docs.datastax.com/en/astra-serverless/docs/vector-search/overview.html)
+Jupyter notebook for image search powered by [Astra Vector Search](https://docs.datastax.com/en/astra-serverless/docs/vector-search/overview.html) and OpenAI [CLIP Model](https://github.com/openai/CLIP).
 
 ## OpenAI CLIP Model
 CLIP, or "Contrastive Language-Image Pretraining", is an artificial intelligence model developed by OpenAI. The model is trained to understand and associate images with natural language by using a vast number of images and their associated textual descriptions. CLIP can perform tasks such as generating textual descriptions of images or finding images based on given text.
